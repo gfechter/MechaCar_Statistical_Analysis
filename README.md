@@ -4,7 +4,7 @@
 The data analytics team for AutosRUs has requested assistance analyzing data for their company. After initial analysis, they request a review of production data for a new prototype - the MechaCar. The MechaCar is suffering from production issues, which are causing delays in manufacturing. The goal of the review of the production data is to assist the manufacturing team. The specific review that has been requested includes performing multiple linear regression, producing summary statistics, running t-tests, and ultimately designing a statistical study. 
 
 ## Resources
-Data: MechaCar MPG dataset; Suspension Coil Dataset 
+Data: MechaCar MPG dataset; Suspension Coil Dataset         
 R Studio 3.6.2
 
 ## Deliverable 1 - Linear Regression to Predict MPG
