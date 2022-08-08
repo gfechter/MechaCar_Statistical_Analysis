@@ -83,3 +83,7 @@ Data would need to be collected on a group of Metacars and other vehicles after 
 
 ## Summary
 The additional review of the Mechacar can be used to help the manufacturing team. Additionally, the proposed study could assist AutosRUs in determining how they can improve the Mechacar. 
+
+Entire code and environment. 
+
+<img width="1194" alt="Screen Shot 2022-08-07 at 10 04 56 PM" src="https://user-images.githubusercontent.com/103774401/183330357-24a7815a-8d6b-4c77-b73a-fbe4a0978990.png">
