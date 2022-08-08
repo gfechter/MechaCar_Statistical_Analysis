@@ -86,4 +86,5 @@ The additional review of the Mechacar can be used to help the manufacturing team
 
 Entire code and environment. 
 
-<img width="1194" alt="Screen Shot 2022-08-07 at 10 04 56 PM" src="https://user-images.githubusercontent.com/103774401/183330357-24a7815a-8d6b-4c77-b73a-fbe4a0978990.png">
+<img width="1194" alt="Screen Shot 2022-08-07 at 10 06 56 PM" src="https://user-images.githubusercontent.com/103774401/183330568-d83dc70e-2533-499b-9f90-af51c509918d.png">
+
